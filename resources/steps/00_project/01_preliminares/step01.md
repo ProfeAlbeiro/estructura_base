@@ -2,7 +2,7 @@
 
 #### 1. Descargar el '.ZIP' del Repositorio
 
-&nbsp;&nbsp;&nbsp;&nbsp; ● &nbsp; Ir a **[Estructura Base](https://github.com/UniminutoProfeAlbeiro/07_computacion_movil/tree/main)** y descargar el archivo '.ZIP'.
+&nbsp;&nbsp;&nbsp;&nbsp; ● &nbsp; Ir a **[Estructura Base](https://github.com/ProfeAlbeiro/estructura_base)** y descargar el archivo '.ZIP'.
 <br>&nbsp;&nbsp;&nbsp;&nbsp; ● &nbsp; Descomprimir el '.ZIP' y cambiar el nombre del proyecto.
 
 #### 2. Crear un repositorio en Github
